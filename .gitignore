@@ -1,6 +1,25 @@
-target/
-META-INF
-
+# Pluto
 *.dep
 testdata/*/*/
 lib
+
+# Java
+*.class
+*.jar
+hs_err_pid*
+
+# Gradle
+**/.gradle
+**/build/
+!.gradlew/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+**/.idea
+**/out
+
+# Eclipse
+**/.project
+**/.settings
+**/.classpath
+**/.factorypath
+**/bin
