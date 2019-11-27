@@ -5,6 +5,8 @@ plugins {
   id("org.metaborg.gitonium") version "0.1.2"
 }
 
+group = "build.pluto"
+
 sourceSets {
   main {
     java {
