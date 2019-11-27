@@ -20,7 +20,7 @@ sourceSets {
 
 dependencies {
   api("org.sugarj:common:1.7.1")
-  api("com.cedarsoftware:java-util-pluto-fixes:1.19.4-SNAPSHOT")
+  api("com.cedarsoftware:java-util-pluto-fixes:1.19.4")
   api("org.yaml:snakeyaml:1.17")
   api("org.objenesis:objenesis:2.2")
   api("org.jetbrains.xodus:xodus-environment:1.0.1")
